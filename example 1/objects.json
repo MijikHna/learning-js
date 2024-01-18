@@ -1,0 +1,17 @@
+[
+  {
+    "name": "John",
+    "age": 30,
+    "favoriteColor": "blue"
+  },
+  {
+    "name": "Jane",
+    "age": 25,
+    "favoriteColor": "red"
+  },
+  {
+    "name": "Jim",
+    "age": 40,
+    "favoriteColor": "green"
+  }
+]
